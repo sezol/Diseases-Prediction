@@ -1,0 +1,12 @@
+click
+h5py
+scikit-learn
+numpy 
+pandas
+matplotlib 
+seaborn
+keras
+opencv-python 
+flask
+werkzeug
+tensorflow
